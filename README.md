@@ -109,6 +109,10 @@ This analysis helps businesses to:
 
 ---
 
+➡️ After calculating RFM scores, continue with the **Customer RFM Segmentation** project to see how customer segments are transformed into actionable marketing strategies.
+
+---
+
 ## 👤 Author
 
 **Alper Akdoğan**
