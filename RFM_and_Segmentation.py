@@ -4,7 +4,8 @@ pd.set_option('display.max_columns', None)
 pd.reset_option('display.max_rows', None)
 pd.set_option('display.float_format', lambda x: '%.3f' % x)
 
-df_ = pd.read_excel(r'C:\Users\ap\Desktop\miuul\CRM\online_retail_II.xlsx', sheet_name="Year 2009-2010")
+DATA_PATH = "data/online_retail_II.xlsx"
+df = pd.read_excel(DATA_PATH, sheet_name="Year 2009-2010")
 
 df = df_.copy()
 df.head()
